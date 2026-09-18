@@ -287,8 +287,6 @@ YuvaIntern_Task_01/
     └── Week_1_Data_Exploration_and_Problem_Definition.docx
 ```
 
----
-
 ## ▶️ How to Run the Project
 
 ### Step 1 — Clone the Repository
