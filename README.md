@@ -294,7 +294,10 @@ yuva-intern-task-01/
 ### Step 1 — Clone the Repository
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/aryan87-ui/YuvaIntern_Task_01.git
+cd YuvaIntern_Task_01
+pip install -r requirements.txt
+jupyter notebook
 ```
 
 ### Step 2 — Open the Project
