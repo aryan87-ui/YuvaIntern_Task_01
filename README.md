@@ -262,7 +262,7 @@ Further analysis can include:
 ## 📁 Project Structure
 
 ```text
-yuva-intern-task-01/
+YuvaIntern_Task_01/
 │
 ├── .gitignore
 ├── README.md
@@ -300,7 +300,7 @@ git clone https://github.com/aryan87-ui/YuvaIntern_Task_01.git
 ### Step 2 — Open the Project
 
 ```bash
-cd yuva-intern-task-01
+cd YuvaIntern_Task_01
 ```
 
 ### Step 3 — Install Dependencies
