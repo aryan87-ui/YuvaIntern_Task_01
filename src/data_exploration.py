@@ -7,9 +7,9 @@ import matplotlib.pyplot as plt
 # 1. Load Dataset
 # -----------------------------
 
-file_path = "../data/Sample - Superstore.csv"
+file_path = "data/Sample - Superstore.csv"
 
-df = pd.read_csv(file_path)
+df = pd.read_csv(file_path, encoding="latin1")
 
 print("Dataset loaded successfully!")
 print("Shape:", df.shape)
